@@ -1,4 +1,4 @@
-# Projeto de interface front-end de aplicativo utilizando Vite/React.js
+# Projeto de interface front-end de aplicativo utilizando Vite/React.js e DogAPI
 
 -Ideia do app é ser um agregador de anúncios de animais abandonados
 
